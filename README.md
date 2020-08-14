@@ -1,5 +1,5 @@
 # Todo-List
-This is a very simple ToDo list created by me using HTML, CSS Styling, Vanilla JS and Basic Jquery DOM Manipulation. The project was accomplished with the help of Colt Steele's video on TODOs list project in Udemy's "The complete web developer course."
+This is a very simple TODOs list created by me using HTML, CSS Styling, Vanilla JS and Basic Jquery DOM Manipulation.
 
 # Features of list:
 
@@ -9,25 +9,25 @@ This is a very simple ToDo list created by me using HTML, CSS Styling, Vanilla J
 
 
 # Potential Cons:
-- The list is static as it is based on a HTML template and hence any item added will not get stored as there is no Database routed to this APP.
+- The list is static as it is based on a HTML template and hence any item added will not get stored as there is no Database routed to this APP. Hence refreshing the webpage will get the items erased and set back to default.
 
-- The list is singular, and while I did attempt to make multiple lists in the webpage, due to time constraint, it was not possible for me to incorporate them.
+- The list is singular and while I did attempt to make multiple lists in the webpage for adding multiple categories of lists, due to time constraint, it was not possible for me to implement them.
 
 # How they all work together:
 
-* The Display site:
+The Display site (frontend):
 
-- The application frontend was created using a HTML file (index.html) and style links to the CSS files and JS files were given under the heading.
+- The application frontend was created using a HTML file (index.html) and the styling was done using CSS. The icons and font designs were made using font-awesome-5 and Google fonts respectively.
 
-- The animation and design was implemented using a CSS file "assets/css/todos.css", where basic fading and trash icon sliding were animated under their respective tags and ID. 
+- The basic animations incorporated are the fading of items upon deletion and trash icon sliding right upon mouse hovering. 
 
-* Backend works:
+Backend works:
 
-- The backend works such as clicking, adding, and deleting functions for the list items were done using Basic Jquery DOM Manipulation, where I was able to select the HTML elements using their respective IDs and then perform functions on them.
+- The backend works such as clicking, adding, and deleting functions for the list items were done using Basic JQuery DOM Manipulation, where I was able to select the HTML elements using their respective IDs and then perform functions on them.
 
-- It was very useful to refer to the JQuery documentation website for some of the Jquery functions.
+- It was very beneficial to refer to the JQuery documentation website for some of the Jquery functions.
 
 
-I wanted this project to be accomplished using simple tools such HTML, CSS Styling, Vanilla JS and Basic Jquery DOM Manipulation, it was a success that I was able to complete them using these tools and nothing more; (Well I deployed them using Heroku;) )
+I wanted this project to be accomplished using simple tools such HTML, CSS Styling, Vanilla JS and Basic JQuery DOM Manipulation, and it was a success that I was able to complete them using these tools and nothing more; (Well I deployed them using Heroku;) )
 
 Otherwise, feel free to see my project and use them!
