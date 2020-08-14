@@ -1,5 +1,5 @@
 # Todo-List
-This is a very simple ToDo list created by me (Rishi) using HTML, CSS Styling, Vanilla JS and Basic Jquery DOM Manipulation. The project was accomplished with the help of Colt Steele's video on TODOs list project in Udemy's "The complete web developer course."
+This is a very simple ToDo list created by me using HTML, CSS Styling, Vanilla JS and Basic Jquery DOM Manipulation. The project was accomplished with the help of Colt Steele's video on TODOs list project in Udemy's "The complete web developer course."
 
 # Features of list:
 
