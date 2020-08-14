@@ -9,7 +9,7 @@ This is a very simple ToDo list created by me (Rishi) using HTML, CSS Styling, V
 
 
 # Potential Cons:
-- The list is static as it is based on a HTMl template and hence any item added will not get stored as it is not stored into a Database
+- The list is static as it is based on a HTML template and hence any item added will not get stored as there is no Database routed to this APP.
 
 - The list is singular, and while I did attempt to make multiple lists in the webpage, due to time constraint, it was not possible for me to incorporate them.
 
